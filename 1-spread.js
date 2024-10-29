@@ -26,7 +26,6 @@ const car = {
 
 const updatedCar = {
   ...car,
-  ...car,
   year: 2022,
 };
 
